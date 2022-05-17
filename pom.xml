@@ -53,10 +53,10 @@
             <url>http://138.3.244.133:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
+  
     <scm>
-        <connection>scm:git:https://github.com/bnasslahsen/jenkins-sample-1.git</connection>
-        <url>https://github.com/bnasslahsen/jenkins-sample-1</url>
-        <developerConnection>scm:git:https://github.com/bnasslahsen/jenkins-sample-1.git</developerConnection>
-        <tag>HEAD</tag>
+        <connection>scm:git:https://github.com/bendavidtyler/jenkins-sample-1.git</connection>
+        <url>https://github.com/bendavidtyler/jenkins-sample-1</url>
+        <developerConnection>scm:git:https://github.com/bendavidtyler/jenkins-sample-1.git</developerConnection>
     </scm>
 </project>
